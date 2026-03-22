@@ -1,2 +1,1 @@
-https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
-https://drive.google.com/file/d/1HyHSqAv5Gertos_hGx3oBPDocxIPledC/view?usp=sharing
+
